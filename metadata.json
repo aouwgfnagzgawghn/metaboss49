@@ -1,0 +1,56 @@
+{
+  "name": "Bounty Hunter #6059",
+  "symbol": "S3BH",
+  "description": "This collection's Metaplex collection standard NFT does not have metadata URI. If you have the update authority, you can change the picture/description on this page by updating the collection standard NFT and filling in the right metadata URI.",
+  "seller_fee_basis_points": 1000,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https%3A%2F%2Fbafybeibe6ax5qwfct6sr7aahbalazlfpimllccrk6bs7g3u4u6uqb5m3vu.ipfs.nftstorage.link%2F6059.png%3Fext%3Dpng",
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Teal Mist"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Xray Skin Golden"
+    },
+    {
+      "trait_type": "Skins attribute",
+      "value": "Enhancements"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Bare"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jailhouse Jumpsuit"
+    },
+    {
+      "trait_type": "Mouth & Facial Hair",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Headwear & Hair",
+      "value": "Short Spiky Black"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Fire Eye"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2dYeMCkrGHzLMW1rZBhbsY2EF7PS775YCttex7fhb3U1",
+        "share": 100
+      }
+    ]
+  }
+}
